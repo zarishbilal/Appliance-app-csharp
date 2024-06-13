@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\zaris\\downloads\\consoleapp1\\consoleapp1\\consoleapp1\\vaccum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vaccum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\zaris\\downloads\\consoleapp1\\consoleapp1\\consoleapp1\\dishwasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dishwasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\zaris\\downloads\\consoleapp1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\zaris\\downloads\\consoleapp1\\consoleapp1\\consoleapp1\\microwave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\microwave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\zaris\\downloads\\consoleapp1\\consoleapp1\\consoleapp1\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A31277F-BB01-458E-9B6B-44B4F8DA3B4F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dishwasher.cs",
+              "DocumentMoniker": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\dishwasher.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\dishwasher.cs",
+              "ToolTip": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\dishwasher.cs",
+              "RelativeToolTip": "ConsoleApp1\\dishwasher.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:36:07.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vaccum.cs",
+              "DocumentMoniker": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\vaccum.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\vaccum.cs",
+              "ToolTip": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\vaccum.cs",
+              "RelativeToolTip": "ConsoleApp1\\vaccum.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:35:24.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "refrigerator.cs",
+              "DocumentMoniker": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\refrigerator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\refrigerator.cs",
+              "ToolTip": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\refrigerator.cs",
+              "RelativeToolTip": "ConsoleApp1\\refrigerator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:35:20.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "microwave.cs",
+              "DocumentMoniker": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\microwave.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\microwave.cs",
+              "ToolTip": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\microwave.cs",
+              "RelativeToolTip": "ConsoleApp1\\microwave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:35:04.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\zaris\\Downloads\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAYwJkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:46:32.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
