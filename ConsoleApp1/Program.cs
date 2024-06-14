@@ -251,6 +251,7 @@ namespace ModernAppliances
             foreach (var appliance in randomAppliances)
             {
                 Console.WriteLine(appliance);
+                Console.WriteLine($"\n");
             }
         }
 
