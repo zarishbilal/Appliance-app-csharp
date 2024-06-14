@@ -40,7 +40,7 @@ namespace ConsoleApp1
 
         public override string ToString()
         {
-            return $"Item Number: {ItemNumber}\nBrand: {Brand}\nQuantity: {Quantity}\nWattage: {Wattage}\nColor: {Color}\nPrice: {Price:C}\nGrade: {Grade}\nBattery Voltage: {BatteryVoltageDisplay}";
+            return $"Item Number: {ItemNumber}\nBrand: {Brand}\nQuantity: {Quantity}\nWattage: {Wattage}\nColor: {Color}\nPrice: {Price}\nGrade: {Grade}\nBattery Voltage: {BatteryVoltageDisplay}";
         }
     }
 }
