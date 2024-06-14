@@ -26,7 +26,7 @@ Enter option:
 Enter the item number of an appliance:
  143826003
 
- The appliance is not available to be checked out.
+The appliance is not available to be checked out.
 
 Welcome to Modern Appliances!
 How may we assist you?
@@ -52,9 +52,9 @@ How may we assist you?
 Enter option:
  2
 
- Enter brand to search for:
- Tefal
- Matching Appliances:
+Enter brand to search for:
+Tefal
+Matching Appliances:
 
 Item Number: 535981394
 Brand: Tefal
@@ -95,8 +95,8 @@ Appliance Types
  Enter type of appliance:
  1
 
- Enter number of doors: 2 (double door) 3 (three doors) or 4 (four doors):  3
- Matching refrigerators:
+Enter number of doors: 2 (double door) 3 (three doors) or 4 (four doors):  3
+Matching refrigerators:
 
 Item Number: 146947171
 Brand: Black & Decker
@@ -136,7 +136,7 @@ Appliance Types
 2 - Vacuums
 3 - Microwaves
 4 - Dishwashers
- Enter type of appliance:
+Enter type of appliance:
  2
 
 Enter battery voltage value. 18 V (low) or 24 V (high):
@@ -210,10 +210,10 @@ Appliance Types
 2 - Vacuums
 3 - Microwaves
 4 - Dishwashers
- Enter type of appliance:
+Enter type of appliance:
  3
 
- Room where the microwave will be installed: K (kitchen) or W (work site):
+Room where the microwave will be installed: K (kitchen) or W (work site):
  W
 
  Matching microwaves:
@@ -254,10 +254,10 @@ Appliance Types
 2 - Vacuums
 3 - Microwaves
 4 - Dishwashers
- Enter type of appliance:
+Enter type of appliance:
  4
 
- Enter the sound rating of the dishwasher: Qt (Quietest) Qr (Quieter) Qu(Quiet) or M (Moderate):
+Enter the sound rating of the dishwasher: Qt (Quietest) Qr (Quieter) Qu(Quiet) or M (Moderate):
 M
 
  Matching dishwashers:
@@ -293,10 +293,10 @@ How may we assist you?
 Enter option:
  4
 
- Enter number of appliances:
+Enter number of appliances:
 2
 
- Random appliances:
+Random appliances:
 
 Item Number: 333607621
 Brand: Vax
@@ -323,3 +323,4 @@ How may we assist you?
 5 - Save & exit
 
 Enter option:
+
